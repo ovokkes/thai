@@ -1,0 +1,2 @@
+# thai
+on tea testnet
